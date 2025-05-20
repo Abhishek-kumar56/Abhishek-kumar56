@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.instagram.com/abhi___jaiswal__/?hl=en
 - 😄 Pronouns: Coder 
-- ⚡ Fun fact: 
+
 
 <!---
 Abhishek-kumar56/Abhishek-kumar56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
